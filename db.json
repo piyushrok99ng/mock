@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "userName": "userr1",
+      "userId":1,
+      "postDetailId":1
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "userName": "userr2",
+      "userId":2,
+      "postDetailId":2
+    }
+  ],
+  "postDetail": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "userName": "userr1",
+      "userId":1,
+      "comment":"comment 1",
+      "email":"post1@xxx.com"
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "userName": "userr2",
+      "userId":2,
+      "comment":"comment 2",
+      "email":"post2@xxx.com"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName":"userr1",
+      "fullName":"Rohit sharma",
+      "email":"user1@xxx.com",
+      "websites":"www.xyz.com",
+      "companyDetails":"Tata consultancy and services LTD"
+    },
+    {
+      "id": 2,
+      "userName":"userr2",
+      "fullName":"Akshay sharma",
+      "email":"user2@xxx.com",
+      "websites":"www.xyz.com",
+      "companyDetails":"Tata consultancy and services LTD"
+    }
+    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
