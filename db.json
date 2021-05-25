@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "Title 1",
+      "title": "post 1",
       "userName": "userr1",
       "userId":1,
       "postDetailId":1
