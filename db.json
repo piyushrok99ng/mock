@@ -13,6 +13,34 @@
       "userName": "userr2",
       "userId":2,
       "postDetailId":2
+    },
+    {
+      "id": 1,
+      "title": "post 1",
+      "userName": "ks23423",
+      "userId":3,
+      "postDetailId":3
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "userName": "userr2",
+      "userId":2,
+      "postDetailId":2
+    },
+    {
+      "id": 1,
+      "title": "post 1",
+      "userName": "ks23423",
+      "userId":3,
+      "postDetailId":4
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "userName": "userr2",
+      "userId":2,
+      "postDetailId":2
     }
   ],
   "postDetail": [
@@ -31,12 +59,44 @@
       "userId":2,
       "comment":"comment 2",
       "email":"post2@xxx.com"
+    },
+    {
+      "id": 3,
+      "title": "Title 3",
+      "userName": "userr3",
+      "userId":3,
+      "comment":"comment 3",
+      "email":"post3@xxx.com"
+    },
+    {
+      "id": 4,
+      "title": "Title 4",
+      "userName": "userr4",
+      "userId":4,
+      "comment":"comment 4",
+      "email":"post4@xxx.com"
+    },
+    {
+      "id": 5,
+      "title": "Title 5",
+      "userName": "userr5",
+      "userId":5,
+      "comment":"comment 5",
+      "email":"post5@xxx.com"
+    },
+    {
+      "id": 6,
+      "title": "Title 6",
+      "userName": "userr6",
+      "userId":6,
+      "comment":"comment 6",
+      "email":"post6@xxx.com"
     }
   ],
   "users": [
     {
       "id": 1,
-      "userName":"userr1",
+      "userName":"roHIT",
       "fullName":"Rohit sharma",
       "email":"user1@xxx.com",
       "websites":"www.xyz.com",
@@ -48,7 +108,37 @@
       "fullName":"Akshay sharma",
       "email":"user2@xxx.com",
       "websites":"www.xyz.com",
-      "companyDetails":"Tata consultancy and services LTD"
+      "companyDetails":"HCL LTD"
+    },{
+      "id": 3,
+      "userName":"ks23423",
+      "fullName":"K Yadav",
+      "email":"user1@xxx.com",
+      "websites":"www.xyz.com",
+      "companyDetails":"Accenturre LTD"
+    },
+    {
+      "id": 4,
+      "userName":"ashK234",
+      "fullName":"Ashish Kumar",
+      "email":"user4@xxx.com",
+      "websites":"www.xyz.com",
+      "companyDetails":"L&T"
+    },{
+      "id": 5,
+      "userName":"n95",
+      "fullName":"N mehara",
+      "email":"user5@xxx.com",
+      "websites":"www.mehara.com",
+      "companyDetails":"Tata Motors"
+    },
+    {
+      "id": 6,
+      "userName":"peterson99",
+      "fullName":"kevin Peterson",
+      "email":"user6@xxx.com",
+      "websites":"www.peterson.com",
+      "companyDetails":"Oracle finance LTD"
     }
     
   ],
